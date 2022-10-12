@@ -11,12 +11,17 @@ key = eggos
 adjustedkey = eggoseggoseg
 
 How to install it?
+
 1.Log in to your coding platform.
+
 2.Copy and paste this code:git https://github.com/Gwon-Stephen/Version-Control.git to a new terminal.
+
 3.Check this new file in your file explorer.
 
 How to contribute?
 You need to fork the program first, making any adjustment you want on your coding platform, and then send a pull request. 
+
+We used a GNU General Public License version 3.0 because we want to make this software free to run,study,share and modify for all end users. 
  
 Collaborators:
 Stephen Gwon
