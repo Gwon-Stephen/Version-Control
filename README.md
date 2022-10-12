@@ -21,7 +21,7 @@ How to install it?
 How to contribute?
 You need to fork the program first, making any adjustment you want on your coding platform, and then send a pull request. 
 
-We used a GNU General Public License version 3.0 because we want to make this software free to run,study,share and modify for all end users. 
+We used a GNU General Public License version 3.0 because we want to make this software free to run,study,share and modify for all end users. We chose this Code of Conduct to be sure that this code will not be used to harrass anyone's race, religion, sex, or identity in any way. Hate speech will not be tolerated in this community. 
  
 Collaborators:
 Stephen Gwon
