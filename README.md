@@ -1,7 +1,14 @@
 # Version-Control
 CMPINF0010 Lab
-What's about this program?
-This is a story generator. If you enter a name, and something random, it will automaticly generate a little story with your inputs.
+
+What's this program about?
+This program takes two inputs, one being your name and another being the key (which can be anything you want). This program will take these two string arguments and return the key adjusted to fit the length of the string found in your name (spaces count).
+
+Example:
+name = Stephen Gwon
+key = eggos
+
+adjustedkey = eggoseggoseg
 
 How to install it?
 1.Log in to your coding platform.
@@ -9,7 +16,7 @@ How to install it?
 3.Check this new file in your file explorer.
 
 How to contribute?
-You need to fork the program first, making any adjustment you want on your coding platform, and then pull request. 
+You need to fork the program first, making any adjustment you want on your coding platform, and then send a pull request. 
  
 Collaborators:
 Stephen Gwon
